@@ -1,0 +1,15 @@
+{
+  "name": "zdom",
+  "version": "0.1.0",
+  "description": "A simple virtual DOM, written in Zig.",
+  "license": "MIT",
+  "author": "Basile Aelterman",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
