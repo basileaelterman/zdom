@@ -3,3 +3,7 @@ dist/
 # Node
 node_modules/
 package-lock.json
+
+# Zig
+.zig-cache/
+zig-out/
