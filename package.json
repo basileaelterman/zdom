@@ -4,7 +4,7 @@
   "description": "A simple virtual DOM, written in Zig.",
   "license": "MIT",
   "author": "Basile Aelterman",
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p ."
